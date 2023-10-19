@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1697678807 source:c:\users\tomas\desktop\topicos tp\tps\funciones.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	"misFunciones.h"
+	<ctype.h>
+
+1697678807 source:c:\users\tomas\desktop\topicos tp\tps\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1697678826 c:\users\tomas\desktop\topicos tp\tps\misfunciones.h
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+
